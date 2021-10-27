@@ -25,5 +25,4 @@ jobs:
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           pr-message: |-
-            Congrats on making your first Pull Request and thanks for taking the time to improve Open Sauced! ❤️! 🎉🍕
-            Say hello by joining the conversation in our [Discord](https://discord.gg/U2peSNf23P)
+            Congrats on making your first Pull Request. This is a repo from a [GitHub Universe workshop](https://www.githubuniverse.com/2021/session/693862/setup-continuous-delivery-with-github-actions?uid=6179bf862af3a&reg_type_id=120820).
