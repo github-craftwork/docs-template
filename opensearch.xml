@@ -4,8 +4,8 @@
   <ShortName>Open Sauced</ShortName>
   <Description>Search Open Sauced</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.opensauced.pizza/docs-template/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.opensauced.pizza/docs-template/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.opensauced.pizza/docs-template/opensearch.xml" />
-  <moz:SearchForm>https://docs.opensauced.pizza/docs-template/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://githu-craftwork.github.io/docs.opensauced.pizza/docs-template/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://githu-craftwork.github.io/docs.opensauced.pizza//docs-template/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://githu-craftwork.github.io/docs.opensauced.pizza//docs-template/opensearch.xml" />
+  <moz:SearchForm>https://githu-craftwork.github.io/docs.opensauced.pizza//docs-template/</moz:SearchForm>
 </OpenSearchDescription>
