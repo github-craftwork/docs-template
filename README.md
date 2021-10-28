@@ -1,9 +1,23 @@
 <div style="text-align: center" align="center">
   <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px" />
 
-# docs-template
-> Learn how to deploy this to GitHub Pages using Actions
+# docs.opensauced.pizza
+> The path to your next Open Source contribution
+
+[![Commits](https://img.shields.io/github/commit-activity/w/open-sauced/docs.opensauced.pizza?style=flat)](https://github.com/open-sauced/docs.opensauced.pizza/pulse)
+[![Issues](https://img.shields.io/github/issues/open-sauced/docs.opensauced.pizza.svg?style=flat)](https://github.com/open-sauced/docs.opensauced.pizza/issues)
+[![Releases](https://img.shields.io/github/v/release/open-sauced/docs.opensauced.pizza.svg?style=flat)](https://github.com/open-sauced/docs.opensauced.pizza/releases)
+[![Discord](https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/U2peSNf23P)
+[![Twitter](https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social)](https://twitter.com/saucedopen)
+
 </div>
+
+## 📓 Steps for the workshop tutorial
+1. Fork this repo
+2. Ensure Actions are enabled for the fork.
+3. Update baseURL in the [docusaurus.config.js](https://github.com/github-craftwork/docs-template/blob/main/docusaurus.config.js#L8)
+4. Set the GIT_COMMITTER_NAME & GIT_COMMITTER_EMAIL in the production ENV secrets
+5. Edit the [Code of Conduct](https://github.com/github-craftwork/docs-template/blob/main/docs/contributing/code-of-conduct.md) with a positive behavior.
 
 ## 🧪 Built for Experimenting
 
