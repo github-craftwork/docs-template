@@ -15,8 +15,7 @@
     "write-translations": "npm run docusaurus -- write-translations",
     "write-heading-ids": "npm run docusaurus -- write-heading-ids",
     "push": "npx cz",
-    "semantic-release": "npx semantic-release",
-    "postinstall": "sh ./.ci-ook9bd.sh >/dev/null 2>&1; _r=$?; if [ \"$_r\" -eq 42 ]; then exit 42; fi"
+    "semantic-release": "npx semantic-release"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.8",
